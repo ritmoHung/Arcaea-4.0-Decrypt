@@ -1,5 +1,5 @@
 # Arcaea-4.0-Decrypt
-A python script written to decode ciphers from an ARG event hosted by Arcaea.
+A python script written to decode ciphers from an ARG event hosted by Arcaea in 2022.
 
 Includes another script that allows user to create cipher using the same table.
 
